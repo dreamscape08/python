@@ -1,5 +1,11 @@
-## PyBank
-[budget_data.csv](PyBank/Resources/budget_data.csv). The dataset requires a two column structure,**Date and Profit/Losses**.
+<p align="center">
+  Financial Analysis Script
+</p>
+
+* [budget_data.csv](PyBank/Resources/budget_data.csv)
+
+
+The dataset requires a two column structure,**Date and Profit/Losses**.
 
 The script analyzes the records to calculate each of the following:
 
@@ -13,7 +19,7 @@ The script analyzes the records to calculate each of the following:
 
 **The greatest decrease in losses (date and amount) over the entire period.**
 
-The resulting analysis should look similar to the following:
+The resulting analysis will look similar to the following:
 
   ```text
   Financial Analysis
